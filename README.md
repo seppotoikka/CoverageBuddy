@@ -1,5 +1,5 @@
 # CoverageBuddy
-Lightweight Java application for streaming coverage of Magic: the Gathering live tournaments.
+Lightweight Java application for helping in coverage of Magic: the Gathering live tournaments.
 
 Features:
 * Show 2 decklists side by side
